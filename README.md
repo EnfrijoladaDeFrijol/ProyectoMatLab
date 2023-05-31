@@ -1,4 +1,5 @@
 # ProyectoMatLab
+# Arturo, Angel y Mirna
 ## :pencil: Descripción:
 El proyecto consiste en la entrega de una interfaz gráfica, se probará que las interfaces
 cumplan los modelos del caso presentado.
